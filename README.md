@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JertvaMayoneza
 - 👀 I’m interested in Web-api projects that can help me improve my skills
-- 🌱 I’m currently learning C# .NET/ASP.NET
+- 🌱 I’m currently learning C# .NET/ASP.NET and Go
 - 📫 How to reach me @minipigy
 - ⚡ Fun fact: i'm not mini pig
 
